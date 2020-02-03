@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooghoofaig.b7-tournament.de/sitemap.xml
